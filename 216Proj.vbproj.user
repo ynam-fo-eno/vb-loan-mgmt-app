@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="1.Sacco Members' Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="2.Cross-Checking Applicants' Validity For A Loan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.Succesful Applicant's Chosen Loan And Loan Plan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="4.Successful Applicant's Guarantor And Other Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="5.Loan Recipient's Payment Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="6.Recipient's Payment Progress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
